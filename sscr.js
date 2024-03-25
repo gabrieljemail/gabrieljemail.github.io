@@ -1,7 +1,7 @@
 const dom = document;
 const device = window;
 
-function add(tag, classes, id, otherAttributes, content) {
+function add(tag, classes, id, sa, content) {
         // create a new div element
         const newDiv = document.createElement(tag);
 
@@ -18,8 +18,15 @@ function add(tag, classes, id, otherAttributes, content) {
         // Set the classes and ID
         currentDiv.setAttribute('class', classes);
         currentDiv.setAttribute('id', id);
-        if () {
-            
+        switch (tag) {
+            case 'a':
+                currentDiv.setAttribute('href', sa);
+                break;
+            case 'input':
+                currentDiv.setAttribute('type', sa)
         }
 
+        return currentDiv;
+
 }
+
