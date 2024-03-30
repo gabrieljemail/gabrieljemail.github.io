@@ -1,4 +1,4 @@
-**Home** • **[Website](https://gabriel.jemail.us)** • **[Games](https://gabriel.jemail.us/games/)**
+**Home** • **[Website](https://gabriel.jemail.us)** • **[Games](https://gabriel.jemail.us/games/)** • **[Search](search.html)**
 
 <hr>
 
