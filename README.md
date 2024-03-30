@@ -1,3 +1,7 @@
+<head>
+<meta name="google-site-verification" content="0ECbSKAVaUWlNmqWeIObsPRnVjN_o-mQQfZZsUxX3ug" />
+</head>
+
 **Home** • **[Website](https://gabriel.jemail.us)** • **[Games](games.html)** • **[Search](search.html)**
 
 <hr>
